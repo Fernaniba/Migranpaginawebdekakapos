@@ -1,0 +1,45 @@
+estilos.css
+
+{
+	margin: 0;
+	padding: 0;
+}
+footer{
+
+	font-family: "Arial Black";
+    font-size:30px ;
+	position: relative;
+	margin-top: -10px;
+	width: 100%;
+	padding: 50px;
+	clear: both;
+	background: Gray;
+	text-aling: center;
+	color: #fff;
+}
+/*maquetacion*/
+#nav{
+	height: 10%;
+	background: #727878;
+	border-radius: 1em;
+	margin: 1em;
+}
+
+#section{
+	height: 95%;
+	width: 71%;
+	background: #818B8F;
+	border-radius: 1em;
+	float: left;
+	margin: 0.5em;
+}
+#aside{
+	height: 95%;
+	width: 25%;
+	background: #969387;
+	border-radius: 1em;
+	float: right;
+	margin: 0.5em;
+}
+
+
